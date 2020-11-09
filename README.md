@@ -5,9 +5,13 @@ Home: https://github.com/charnley/rmsd
 
 Package license: BSD 2-clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rmsd-feedstock/blob/master/LICENSE.txt)
 
 Summary: Calculate Root-mean-square deviation (RMSD) of two molecules
+
+Development: https://github.com/charnley/rmsd
+
+Documentation: https://github.com/charnley/rmsd
 
 Calculate root-mean-square deviation (RMSD) between two sets of cartesian
 coordinates (XYZ or PDB format), using rotation (fx. Kabsch algorithm),
