@@ -18,10 +18,10 @@ build:
 
 requirements:
   host:
-    - python
+    - python  >=3.6
     - pip
   run:
-    - python
+    - python  >=3.6
     - numpy
     - scipy
 
@@ -33,7 +33,7 @@ test:
 
 about:
   home: https://github.com/charnley/rmsd
-  license: BSD 2-clause
+  license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE
   summary: Calculate Root-mean-square deviation (RMSD) of two molecules
